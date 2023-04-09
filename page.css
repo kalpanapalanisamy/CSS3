@@ -1,0 +1,26 @@
+body{
+    background-color: darkgray;
+}
+div{
+    margin: 30%;
+    background-color: darkslategrey;
+    width: 40%;
+}
+.container{
+    margin: 5%;
+    width: 90%
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+
+h1,p{
+    text-align: center;
+    background-color: aqua;
+}
+button{
+    text-align: center;
+    background-color: red;
+    margin: 0, auto;
+}

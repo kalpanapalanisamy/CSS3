@@ -1,0 +1,27 @@
+body{
+    background-color: lightgreen;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+#div{
+    text-align: center;
+    width: 50%;
+}
+.container{
+    margin-top: 100px;
+    margin-right: 500px;
+    margin-bottom: 300px;
+    margin-left: 550px;
+    width: 50%;
+    background-color: darkorange;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+button{
+    color:black;
+    background-color: red;
+}

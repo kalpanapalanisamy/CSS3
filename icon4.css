@@ -1,0 +1,28 @@
+button{
+    background-color: aqua;
+}
+i{
+    color: goldenrod;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    margin: 20px;
+}
+.tr{
+    border-bottom: 1px solid #ddd;
+}
+.num{
+    color: goldenrod;
+}
+.button1{
+    background-color: mediumvioletred;
+}
+.a{
+    float: left;
+    margin-left: 70%;
+}

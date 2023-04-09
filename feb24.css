@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(6, 53, 71);
+}
+.container{
+    background-color: white;
+    margin: 20px;
+    height: 500px;
+    width: 400px;
+
+}
+ul li{
+    display: block;
+    padding: 18px;
+}

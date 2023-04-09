@@ -1,0 +1,40 @@
+body{
+    background-color: slategray;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: blue;
+}
+.para{
+    color: darkblue;
+    background-color: gold;
+    text-align: center;
+    font-size: medium;
+}
+.para1{
+    color:white;
+    background-color: blueviolet;
+    text-align: justify;
+}
+#para2{
+    color: rgb(119, 0, 255);
+    background-color: black;
+    text-align: center;
+}
+#table{
+    background-color: brown;
+    width: 80%;
+    text-align: center;
+}
+p{
+    color: darkviolet;
+    background-color: rgb(5, 0, 10);
+    text-align: left;
+}
+button{
+    background-color: darkred;
+    color:lawngreen;
+}

@@ -1,0 +1,298 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* box-sizing: border-box; */
+}
+body{
+    width: 60%;
+    height: 1000px;
+    background-color: lightgray;
+    background-size: cover;
+}
+.div1{
+    /* width: 80%;
+    height: 400px; */
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.i{
+    color: black;
+    /* float: right; */
+    font-size: 30px;
+    position: absolute;
+    left: 95%;
+}
+.p{
+    font-size: 30px;
+    padding: 10px;
+}
+.h{
+    background-color: orangered;
+    width: 300px;
+    height: 120px;
+    padding: 20px;
+    font-size: 34px;
+    color: white;
+}
+.div2{
+    display: block;
+    position: relative;
+    left:120px;
+    bottom: 80px;
+}
+button{
+    padding: 5px 20px;
+
+}
+.di{
+    width: 100%;
+    height: 100px;
+    /* margin-top: -100px; */
+    margin-left: 500px;
+}
+.div3{
+   background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/730_-/2022/05/imga-1651851219.jpg");
+   background-size: cover;
+   width: 350px;
+   height: 400px;
+   position: absolute;
+   /* left:400px; */
+ }
+ .div4{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJF835tbnboQ3zVQanYtVkV0OmAQdr37r-U34ZeOgaw&usqp=CAU&ec=48600113");
+    background-size: cover;
+    width: 230px;
+    border:1px solid red;
+    height: 150px;
+    position:absolute;
+    top: 300px;
+    left: 200px;
+ }
+h2{
+    color: orangered;
+    margin-left: 280px;
+    padding-top:15px;
+}
+.a{
+    position: relative;
+    top: 180px;
+    right: 200px;
+    /* padding-left: 200px; */
+    float: left;
+}
+b{
+    margin-left: 100px;
+}
+.kal{
+    position:absolute;
+    top:200px;
+    left:400px;
+    width:200px;
+}
+.button3{
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    border: 1px solid orangered;
+    width: 150px;
+}
+.di1{
+    width: 100%;
+    height: 100%;
+    margin-top: 500px;
+    position: relative;
+    left: 250px;
+}
+.container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURw-FqL9TikAygHFEPQRGwUnU_i-fKmbnUfv6s5m6Ig&usqp=CAU&ec=48600113");
+    background-size: cover;
+    width: 250px;
+    height: 300px; 
+    float: right;
+}
+.container1{
+      width: 250px;
+      height: 260px;
+      text-align: center;
+      background-color: rgb(15, 15, 15);
+      color: white;
+      float: right;
+      padding: 20px;
+}
+.container2{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUXpDYgROmnpWaHpOvHSw0k8aQ4t0fFeKfPHYQ5F_dw&usqp=CAU&ec=48600113");
+    background-size: cover;
+    width: 250px;
+    height: 300px;
+    float: right;
+}
+.container3{
+    width: 210px;
+    height: 260px;
+    text-align: center;
+    background-color: gray;
+    float: left;
+    padding:20px;
+    margin-left: 19px;
+}
+.container4{
+    background-image: url("https://thumbs.dreamstime.com/b/millennial-black-businesswoman-listening-to-colleagues-corporate-business-meeting-close-up-153630155.jpg");
+    background-size: cover;
+    width: 290px;
+    height: 300px;
+    float: left;
+}
+.container5{
+    width: 210px;
+    height: 260px;
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    float: right;
+    padding: 20px;
+}
+.btn{
+    background-color: orangered;
+    color: white;
+    margin: 15px;
+}
+.di2{
+    width: 100%;
+    height: 100%;
+    margin-top: -250px;
+    margin-left: 300px;
+}
+.d{
+    background-color: orangered;
+    width: 100%;
+    height: 70px;
+    position: relative;
+    top: 200px;
+    /* margin-left: 100px; */
+}
+.h1{
+    color: orangered;
+}
+.img{
+    position: relative;
+    left: 50px;
+}
+.img1{
+    position: relative;
+    left: 320px;
+    top: -180px;
+}
+.img2{
+    position: relative;
+    top: -370px;
+    float: right;
+}
+.icon{
+    color:brown;
+    padding: 5px;
+}
+.di3{
+    width: 120%;
+    height: 100%;
+    margin-top: -300px;
+    margin-left: 300px;
+}
+.con1{
+   width: 250px;
+   height: 180px;
+   background-color: orangered;
+   color: white;
+   text-align: center;
+   padding-top: 30px;
+}
+.con2{
+    width: 250px;
+    height: 180px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+ }
+ .con3{
+    width: 250px;
+    height: 180px;
+    background-color:grey;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+ }
+ .con4{
+    /* display: inline; */
+    float: right;
+    margin-top: -510px;
+    margin-right: 470px ;
+ }
+ .con5{
+    position: relative;
+    top: -510px;
+    left:805px;
+ }
+ .di4{
+    width: 100%;
+    height:700px;
+    margin-left: 300px;
+    margin-top: -400px;
+ }
+ .love{
+    color: orangered;
+    width: 200px;
+    height: 230px;
+    padding-top: 150px;
+    text-align: center;
+
+ }
+ .love1{
+    width: 200px;
+    height: 250px;
+    position: relative;
+    left: 250px;
+    top: -350px;
+    padding-top: 80px;
+ }
+ .love2{
+     width: 150px;
+     height: 250px;
+     background-color:gray;
+     position: relative;
+     left: 500px;
+     top: -700px;
+     padding: 50px;
+     text-indent: 30px;
+ }
+ .di5{
+    width: 100%;
+    height: 100%;
+    margin-top: -200px;
+    margin-left: 300px;
+ }
+ .sad{
+    width: 50%;
+    height: 50%;
+    padding: 30px;
+ }
+ .sad1{
+    width: 30%;
+    height: 35%;
+    position: relative;
+    top: -550px;
+    left: 500px;
+    border: 1px solid orangered;
+    padding: 10px;
+    background-color: gray;
+ }
+ .form{
+    padding-top: 30px;
+ }
+ .btn2{
+    background-color: green;
+ }
+ .c{
+    color: orangered;
+    padding-bottom: 20px;
+ }
+ 

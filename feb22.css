@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto+Mono:ital,wght@0,300;1,400&display=swap');
+
+body{
+    background-image: url("https://s3.ap-south-1.amazonaws.com/cdn.ecostore.in/products/350-350/1268.jpg");
+    background-size: cover;
+}
+ul{
+   background-color: rgba(243, 240, 240, 0.2);
+   list-style-type: none;
+   padding: 20px;
+   
+}
+ul li{
+    display: inline;
+    padding: 20px;
+}
+.li{
+    color: goldenrod;
+    font-size: 40px;
+} 
+img{
+    width: 30px;
+    height: 30px; 
+    padding: 5px;
+}
+.container{
+    margin-left: 600px;
+    margin-top: 150px;
+}
+h1{
+    color: white;
+    font-size: 70px;
+    font-family: 'Roboto Mono', monospace;
+}
+h2{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+}
+.container1{
+    width: 600px;
+    height: 100px;
+    color: white;
+    margin-left: 370px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+ .dir{
+    float: right;
+    font-size: 20px;
+    /* padding-bottom: 80px; */
+ }
